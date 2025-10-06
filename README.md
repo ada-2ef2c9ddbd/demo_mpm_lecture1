@@ -1,5 +1,4 @@
-# Demo Repo for L1 MPM 2025
+# Demo Repo for L1 MPm 2025
 
-Material for this demo.
 
-test 2e
+including some pyhton code
